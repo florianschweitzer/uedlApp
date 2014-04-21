@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2013 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+
+<resources>
+
+    <string name="app_name">3D UEDLA</string>
+
+    <string-array name="mainsteps_array">
+        <item>Analyse</item>
+        <item>Entwurf</item>
+        <item>Implementierung</item>
+        <item>Bereitstellung</item>
+    </string-array>
+    <string-array name="analysis_steps_array">
+        <item>Treffen mit den \nbetreffenden \nStakeholder-Gruppen \nzum Definieren \neiner Vision</item>
+        <item>Tasks bezüglich \nUsability in den \nProjektplan einbinden</item>
+        <item>Fachübergreifende Teams \nbilden, um eine vollständige \nSachkenntniss zu \ngewährleisten</item>
+        <item>Usability-Ziele \ndefinieren</item>
+        <item>Feldversuche \ndurchführen</item>
+        <item>Konkurrenzprodukte \nanalysieren</item>
+        <item>Gratulation! \nVollständige \nGrundlagenentwicklung \nerhöht die Chance für \nden Erfolg</item>
+        <item>"Inhaltsexperten" \n sind keine Endbenutzer\n- oops!</item>
+        <item>Erstellung von \nBenutzerprofilen</item>
+        <item>Entwicklung einer \nAufgabenanalyse</item>
+        <item>Dokumentation von \nBenutzer-Szenarien</item>
+        <item>Gratulation! \nNun ist genügtend \nInformation vorhanden, \num in die Design-Phase \nzu gehen</item>
+        <item>Dokumentation von \nBenutzer \nPerformance-Anforderungen</item>
+    </string-array>
+    
+    <string-array name="design_steps_array">
+        <item>Beginn mit \nBrainstorming \nbezüglich Konzepte</item>
+        <item>Entwicklung von \nScreen-Flows und \nNavigation</item>
+        <item>Berücksichtigung von \nEntwurfskonzepten</item>
+        <item>Erinnerung:\nJeder Schritt in \ndiesem Prozess\n trägt zum UCD bei!</item>
+        <item>Detailliertes Design \nzu bald entwickelt \n- oops!</item>
+        <item>Start des \nEntwurfs mit \nStift und Papier</item>
+        <item>Erstellung von \nPrototypen mit geringer \nGenauigkeit</item>
+        <item>Erinnerung:\nÜberprüfung des erstellten \nEntwurfs sollte bald und \noft gemacht werden!</item>
+        <item>Usability-Tests \nder Prototypen (low-fidelity) \ndurchführen</item>
+        <item>Erstellung eines \ndetailierten Entwurfs \n(high-fidelity)</item>
+        <item>Usability-Tests \nerneut durchführen</item>
+        <item>Gratulation!\nDie Einbeziehung der \naktuellen Benutzer verbessert \nden Entwurf!</item>
+        <item>Dokumentation \nvon Standards \nund Richtlinien</item>
+        <item>Erstellung einer \nEntwurfs-Spezifikation</item>
+    </string-array>
+    <string-array name="implementation_steps_array">
+        <item>Fortlaufende \nHeuristik-Evaluationen \ndurchführen</item>
+        <item>Enge Zusammenarbeit \nmit Design- \nund Deployment-Team!</item>
+        <item>Usability-Tests \nso bald wie möglich\n durchführen</item>
+    </string-array>
+    <string-array name="deployment_steps_array">
+        <item>Umfragen durchführen,\n um Benutzerrückmeldung \nzu erhalten</item>
+        <item>Feldversuche durchführen, \num Info über die \naktuelle Verwendung \nzu bekommen</item>
+        <item>Last-Minute \nEntwurfsänderungen ohne \nUsability-Input - oops!</item>
+        <item>Überprüfen der \nerreichten Ziele durch \nUsability-Tests</item>
+        <item>Erinnerung: \nDas Erhalten einer \nvollständigen\n Benutzererfahrung ist ein \nfortlaufender Prozess!</item>
+    </string-array>
+    
+    
+    <string-array name="analysis_descr_array">
+        <item>Treffen mit den \nbetreffenden \nStakeholder-Gruppen \nzum Definieren \neiner Vision</item>
+        <item>Tasks bezüglich \nUsability in den \nProjektplan einbinden</item>
+        <item>Fachübergreifende Teams \nbilden, um eine vollständige \nSachkenntniss zu \ngewährleisten</item>
+        <item>Usability-Ziele \ndefinieren</item>
+        <item>Feldversuche \ndurchführen</item>
+        <item>Konkurrenzprodukte \nanalysieren</item>
+        <item>Gratulation! \nVollständige \nGrundlagenentwicklung \nerhöht die Chance für \nden Erfolg</item>
+        <item>"Inhaltsexperten" \n sind keine Endbenutzer\n- oops!</item>
+        <item>Erstellung von \nBenutzerprofilen</item>
+        <item>Entwicklung einer \nAufgabenanalyse</item>
+        <item>Dokumentation von \nBenutzer-Szenarien</item>
+        <item>Gratulation! \nNun ist genügtend \nInformation vorhanden, \num in die Design-Phase \nzu gehen</item>
+        <item>Dokumentation von \nBenutzer \nPerformance-Anforderungen</item>
+    </string-array>
+    <string-array name="design_descr_array">
+        <item>Beginn mit \nBrainstorming \nbezüglich Konzepte</item>
+        <item>Entwicklung von \nScreen-Flows und \nNavigation</item>
+        <item>Berücksichtigung von \nEntwurfskonzepten</item>
+        <item>Erinnerung:\nJeder Schritt in \ndiesem Prozess\n trägt zum UCD bei!</item>
+        <item>Detailliertes Design \nzu bald entwickelt \n- oops!</item>
+        <item>Start des \nEntwurfs mit \nStift und Papier</item>
+        <item>Erstellung von \nPrototypen mit geringer \nGenauigkeit</item>
+        <item>Erinnerung:\nÜberprüfung des erstellten \nEntwurfs sollte bald und \noft gemacht werden!</item>
+        <item>Usability-Tests \nder Prototypen (low-fidelity) \ndurchführen</item>
+        <item>Erstellung eines \ndetailierten Entwurfs \n(high-fidelity)</item>
+        <item>Usability-Tests \nerneut durchführen</item>
+        <item>Gratulation!\nDie Einbeziehung der \naktuellen Benutzer verbessert \nden Entwurf!</item>
+        <item>Dokumentation \nvon Standards \nund Richtlinien</item>
+        <item>Erstellung einer \nEntwurfs-Spezifikation</item>
+    </string-array>
+    <string-array name="implementation_descr_array">
+        <item>Fortlaufende \nHeuristik-Evaluationen \ndurchführen</item>
+        <item>Enge Zusammenarbeit \nmit Design- \nund Deployment-Team!</item>
+        <item>Usability-Tests \nso bald wie möglich\n durchführen</item>
+    </string-array>
+    <string-array name="deployment_descr_array">
+        <item>Umfragen durchführen,\n um Benutzerrückmeldung \nzu erhalten</item>
+        <item>Feldversuche durchführen, \num Info über die \naktuelle Verwendung \nzu bekommen</item>
+        <item>Last-Minute \nEntwurfsänderungen ohne \nUsability-Input - oops!</item>
+        <item>Überprüfen der \nerreichten Ziele durch \nUsability-Tests</item>
+        <item>Erinnerung: \nDas Erhalten einer \nvollständigen\n Benutzererfahrung ist ein \nfortlaufender Prozess!</item>
+    </string-array>
+
+    <string name="drawer_open">Drawer öffnen</string>
+    <string name="drawer_close">Drawer schließen</string>
+    <string name="menu_settings">Einstellungen</string>
+    <string name="menu_help">Hilfe</string>
+    <string name="pref_theme">Theme setzen</string>
+    <string name="pref_theme_summary">Setzen des Erscheinungsthemes</string>
+    <string name="pref_cat_appearance">Erscheinung</string>
+    <string name="title_activity_help">Hilfe</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="title_section1">Schritt 1</string>
+    <string name="title_section2">Schritt 2</string>
+    <string name="title_section3">Schritt 3</string>
+    <string name="title_section4">Schritt 4</string>
+
+</resources>

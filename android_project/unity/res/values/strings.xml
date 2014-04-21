@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2013 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+
+<resources>
+
+    <string name="app_name">3D UEDLA</string>
+
+    <string-array name="mainsteps_array">
+        <item>Analysis</item>
+        <item>Design</item>
+        <item>Implementation</item>
+        <item>Deployment</item>
+    </string-array>
+    <string-array name="analysis_steps_array">
+        <item>meet with \nkey stakeholders \nto set vision</item>
+        <item>include usability \ntasks in the \nproject plan</item>
+        <item>assemble a \nmultidisciplinary \nteam to ensure \ncomplete expertise</item>
+        <item>develop \nusability goals \nand objectives</item>
+        <item>conduct field studies</item>
+        <item>look at \ncompetitive products</item>
+        <item>Congratulations! \nThorough groundwork \nincreases your chance \nof success</item>
+        <item>"content experts" \nnot really end users \n- oops!</item>
+        <item>create \nuser profiles</item>
+        <item>develop a \ntask analysis</item>
+        <item>document \nuser scenarios</item>
+        <item>congratulations! \nyou now have the \ninfo needed to \nmake informed \ndesign decisions</item>
+        <item>document user \nperformance requirements</item>
+    </string-array>
+    <string-array name="design_steps_array">
+        <item>begin to \nbrainstorm design \nconcepts and metaphors</item>
+        <item>develop \nscreen flow \nand navigation</item>
+        <item>do walkthroughs \nof design concepts</item>
+        <item>remember:\nevery step \nin the process \ncontributes to UCD!</item>
+        <item>detailed design \nimplemented too \nsoon - oops!</item>
+        <item>begin design \nwith paper \nand pencil</item>
+        <item>create \nlow-fidelity \nprototypes</item>
+        <item>remember:\nvalidate early and \noften with users!</item>
+        <item>conduct usability \ntesting on \nlow-fidelity \nprototypes</item>
+        <item>create \nhigh-fidelity \ndetailed design</item>
+        <item>do usability \ntesting again</item>
+        <item>congratulations!\nincluding actual \nusers improved \nyour design!</item>
+        <item>document standards \nand guidelines</item>
+        <item>create a \ndesign specification</item>
+    </string-array>
+    <string-array name="implementation_steps_array">
+        <item>do ongoing \nheuristic evaluations</item>
+        <item>work closely \nwith delivery team \nas design is implemented!</item>
+        <item>conduct usability \ntesting as soon \nas possible</item>
+    </string-array>
+    <string-array name="deployment_steps_array">
+        <item>use surveys to \nget user feedback</item>
+        <item>conduct field \nstudies to get \ninfo about actual use</item>
+        <item>last-minute \ndesign changes done \nwithout usability \ninput - oops!</item>
+        <item>check objectives \nusing usability testing</item>
+        <item>remember: \nproviding a great \nuser experience \nis an ongoing process!</item>
+    </string-array>
+    <string-array name="analysis_descr_array">
+        <item>meet with \nkey stakeholders \nto set vision</item>
+        <item>include usability \ntasks in the \nproject plan</item>
+        <item>assemble a \nmultidisciplinary \nteam to ensure \ncomplete expertise</item>
+        <item>develop \nusability goals \nand objectives</item>
+        <item>conduct field studies</item>
+        <item>look at \ncompetitive products</item>
+        <item>Congratulations! \nThorough groundwork \nincreases your chance \nof success</item>
+        <item>"content experts" \nnot really end users \n- oops!</item>
+        <item>create \nuser profiles</item>
+        <item>develop a \ntask analysis</item>
+        <item>document \nuser scenarios</item>
+        <item>congratulations! \nyou now have the \ninfo needed to \nmake informed \ndesign decisions</item>
+        <item>document user \nperformance requirements</item>
+    </string-array>
+    <string-array name="design_descr_array">
+        <item>begin to \nbrainstorm design \nconcepts and metaphors</item>
+        <item>develop \nscreen flow \nand navigation</item>
+        <item>do walkthroughs \nof design concepts</item>
+        <item>remember:\nevery step \nin the process \ncontributes to UCD!</item>
+        <item>detailed design \nimplemented too \nsoon - oops!</item>
+        <item>begin design \nwith paper \nand pencil</item>
+        <item>create \nlow-fidelity \nprototypes</item>
+        <item>remember:\nvalidate early and \noften with users!</item>
+        <item>conduct usability \ntesting on \nlow-fidelity \nprototypes</item>
+        <item>create \nhigh-fidelity \ndetailed design</item>
+        <item>do usability \ntesting again</item>
+        <item>congratulations!\nincluding actual \nusers improved \nyour design!</item>
+        <item>document standards \nand guidelines</item>
+        <item>create a \ndesign specification</item>
+    </string-array>
+    <string-array name="implementation_descr_array">
+        <item>do ongoing \nheuristic evaluations</item>
+        <item>work closely \nwith delivery team \nas design is implemented!</item>
+        <item>conduct usability \ntesting as soon \nas possible</item>
+    </string-array>
+    <string-array name="deployment_descr_array">
+        <item>use surveys to \nget user feedback</item>
+        <item>conduct field \nstudies to get \ninfo about actual use</item>
+        <item>last-minute \ndesign changes done \nwithout usability \ninput - oops!</item>
+        <item>check objectives \nusing usability testing</item>
+        <item>remember: \nproviding a great \nuser experience \nis an ongoing process!</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_help">Help</string>
+    <string name="pref_theme">Set theme</string>
+    <string name="pref_theme_summary">Set the appearance theme</string>
+    <string name="pref_cat_appearance">Appearance</string>
+    <string name="title_activity_help">Help</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Step 1</string>
+    <string name="title_section2">Step 2</string>
+    <string name="title_section3">Step 3</string>
+    <string name="title_section4">Step 4</string>
+
+</resources>

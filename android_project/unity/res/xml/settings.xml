@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+ 
+<!--     <PreferenceCategory android:title="@string/pref_cat_appearance" > -->
+<!--         <EditTextPreference -->
+<!--                 android:title="@string/pref_theme" -->
+<!--                 android:summary="@string/pref_theme_summary" -->
+<!--                 android:key="prefUsername"/> -->
+<!--     </PreferenceCategory> -->
+     
+    <PreferenceCategory android:title="@string/pref_cat_appearance" >
+<!--         <CheckBoxPreference -->
+<!--             android:defaultValue="false" -->
+<!--             android:key="prefSendReport" -->
+<!--             android:summary="@string/pref_theme_summary" -->
+<!--             android:title="@string/pref_theme" > -->
+<!--         </CheckBoxPreference> -->
+ 
+        <ListPreference
+            android:key="prefTheme"
+            android:entries="@array/themes"
+            android:defaultValue="1"
+            android:summary="@string/pref_theme_summary"
+            android:entryValues="@array/themesValues"
+            android:title="@string/pref_theme" />
+    </PreferenceCategory>
+ 
+</PreferenceScreen>
